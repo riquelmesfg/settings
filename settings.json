@@ -1,5 +1,5 @@
 {
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "editor.fontSize": 16,
   "editor.hover.enabled": true,
   "workbench.startupEditor": "none",
@@ -44,3 +44,5 @@
     "reportUnknownMemberType": "none",
     "reportUnknownArgumentType": "none",
     "reportUnknownVariableType": "none",
+  } 
+}
